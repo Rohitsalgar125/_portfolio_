@@ -29,8 +29,8 @@ export const personalDetails = {
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/in/balaji111299/",
-  github: "https://github.com/balajigithubwork",
+  linkdein: "https://www.linkedin.com/in/rohit-salgar-rohit125",
+  github: "https://github.com/Rohitsalgar125",
   email: "rhohitsalgar@gmail.com",
 };
 
